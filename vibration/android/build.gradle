@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.benjaminabel.vibration'
+//    namespace 'com.benjaminabel.vibration'
     compileSdkVersion 28
 
     defaultConfig {
